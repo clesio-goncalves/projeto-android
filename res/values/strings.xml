@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Gerenciador de Projetos</string>
+    <string name="sair">Sair</string>
+    
+    <string name="usuario">Usuário</string>
+    <string name="senha">Senha</string>
+    <string name="entrar">Entrar</string>
+    <string name="erro_autenticacao">Usuário ou senha inválidos!</string>
+    
+    <string name="novo_projeto">Novo Projeto</string>
+    <string name="listar_projetos">Listar Projetos</string>
+    <string name="remover_projeto">Remover</string>
+    
+    <string name="nome">Nome</string>
+    <string name="descricao">Descrição</string>
+    <string name="valor">Valor</string>
+    <string name="validade_anos">Validade em anos</string>
+    <string name="salvar">Salvar</string>
+    
+    <string name="registro_salvo">Registro salvo com sucesso!</string>
+    <string name="erro_salvar">Erro ao salvar!</string>
+
+</resources>
